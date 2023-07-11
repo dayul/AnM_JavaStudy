@@ -9,6 +9,7 @@ public class Integer_1118 {
 		int sum = 0;
 		float average = 0;
 		System.out.print("정수 3개 입력: ");
+		
 		a = sc.nextInt();
 		b = sc.nextInt();
 		c = sc.nextInt();
