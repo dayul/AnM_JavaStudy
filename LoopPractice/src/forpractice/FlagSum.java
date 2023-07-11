@@ -10,7 +10,7 @@ public class FlagSum {
 		int n = sc.nextInt(); 
 		
 		for(int i=1; i<=n; i++) {
-			sum += i*sign;
+			sum += i*sign; 
 			sign = sign * -1;
 		}
 		System.out.print(sum);
