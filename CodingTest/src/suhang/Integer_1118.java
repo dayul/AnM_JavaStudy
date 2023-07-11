@@ -17,7 +17,6 @@ public class Integer_1118 {
 		System.out.println("합: " + sum);
 		System.out.println("평균 : " + String.format("%.2f", average));
 				//String.format() : 반올림 하는.. (안에 출력할 것)
-		
 	}
 
 }
