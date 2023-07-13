@@ -8,6 +8,7 @@ public class Group_1118 {
 		
 			int input;
 			String result;
+			
 			System.out.print("숫자 입력: ");
 			input = sc.nextInt();
 			
