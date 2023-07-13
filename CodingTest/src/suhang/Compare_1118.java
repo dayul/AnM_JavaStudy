@@ -7,7 +7,6 @@ public class Compare_1118 {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("a의 값을 입력하세요: ");
 		int a = sc.nextInt();	
-		
 		System.out.print("b의 값을 입력하세요: ");
 		int b = sc.nextInt();
 		
