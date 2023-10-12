@@ -1,2 +1,2 @@
 # AnM_JavaStudy
-앱앤미 Java문제 풀이
+앱앤미 Java 코딩테스트 풀이
